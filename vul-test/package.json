@@ -1,0 +1,15 @@
+{
+  "name": "sample-super-vulnerability-project",
+  "version": "1.0.0",
+  "description": "Any risk, we take",
+  "main": "dist/index.js",
+  "author": "BAAK Team",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "1.8.0"
+  },
+  "dependencies": {
+    "mongoose": "5.7.1",
+    "next": "9.3.0"
+  }
+}
